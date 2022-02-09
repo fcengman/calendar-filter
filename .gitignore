@@ -1,0 +1,6 @@
+# Ignore private file
+/interviews
+
+# Ignore compiled code
+*.[oa]
+*.out
